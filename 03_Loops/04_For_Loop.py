@@ -1,6 +1,6 @@
 # 1.
-# for value in range(5):
-#     print(value)
+for value in range(5):
+    print(value)
 # O/p:
 # 0
 # 1
@@ -19,12 +19,12 @@
 # 2
 
 # 3.
-# fruits = ['apple', 'oraange', 'mango']
+# fruits = ['apple', 'orange', 'mango']
 # for value in fruits:
 #     print(value)
 # O/p:
 # apple
-# oraange
+# orange
 # mango
 
 # 4.
@@ -64,6 +64,7 @@
 # 5 * 9 = 45
 # 5 * 10 = 50
 
+# 7.
 num = input("Enter Number: ")
 for value in range(1, 21):
     multiply = value * int(num)

@@ -1,10 +1,10 @@
 # 1.
-# twenty = 20
-# fifty = 50
-# sum1 = twenty + fifty
-# print(twenty)
-# print(fifty)
-# print(sum1)
+twenty = 20
+fifty = 50
+sum1 = twenty + fifty
+print(twenty)
+print(fifty)
+print(sum1)
 # O/p:
 # 20
 # 50

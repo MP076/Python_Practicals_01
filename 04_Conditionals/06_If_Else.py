@@ -8,6 +8,7 @@
 # O/p:
 # X is Smaller than Y
 
+# 2.
 # x = 30
 # y = 20
 # if x > y:
@@ -17,7 +18,7 @@
 # O/p:
 # X is Greater than Y
 
-# 2.
+# 3.
 # name = 'Joey'
 # if name == 'Joey':
 #     print("Welcome Joey")
@@ -26,6 +27,7 @@
 # O/p:
 # Welcome Joey
 
+# 4.
 name = 'Joey'
 if name == 'Chandler':
     print("Welcome Joey")

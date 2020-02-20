@@ -26,3 +26,8 @@ root.mainloop()
 # sunny
 # cloudy
 # dry
+
+# cloudy
+# wet
+# rainy
+# rainy

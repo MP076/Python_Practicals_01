@@ -16,6 +16,7 @@
 #
 # rect = Rectangle(10, 20)
 # rect.area()
+# O/p:
 # Parent class Area
 
 
@@ -51,5 +52,6 @@ rect = Rectangle(10, 20)
 rect.area()
 tri = Triangle(2, 10)
 tri.area()
+# O/p:
 # Area of Rectangle: 200
 # Area of Triangle: 10.0
